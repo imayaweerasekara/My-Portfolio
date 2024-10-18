@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>My_Portfolio_New</artifactId>
+    <artifactId>My-Portfolio</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
