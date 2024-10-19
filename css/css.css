@@ -369,6 +369,7 @@ nav ul li a{
     margin: 0 10px;
 }
 */
+/*
 
 .assignment-div{
     height: 280vh;
@@ -382,7 +383,7 @@ nav ul li a{
     position: relative;
 
 }
-/*
+!*
 #assignment > h1{
     margin: 20px 0;
     text-align: center;
@@ -400,7 +401,7 @@ nav ul li a{
     position: relative;
     border-radius: 50px;
     background: white;
-}*/
+}*!
 
 #assignment > h1 {
     margin: 20px 0;
@@ -425,7 +426,7 @@ nav ul li a{
 }
 
 #assignment .link-model-assigment {
-    /*color: #0a53be;*/
+    !*color: #0a53be;*!
     display: block;
     font-size: 18px;
     font-weight: 500;
@@ -464,6 +465,8 @@ nav ul li a{
     rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
     rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
+*/
+/*
 
 .service-div{
     height: 140vh;
@@ -497,7 +500,7 @@ nav ul li a{
     background: linear-gradient(45deg, #fd80cf, #a7c7fb);
     box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
     rgba(0, 0, 0, 0.22) 0px 15px 12px;
-    /*transition: transform 0.5s;*/
+    !*transition: transform 0.5s;*!
     transition-duration: 0.2s;
     transition-property: background, border;
 }
@@ -540,7 +543,9 @@ nav ul li a{
     font-size: 23px;
     font-weight: bold;
 }
+*/
 
+/*
 .project-div{
     height: 140vh;
     width: 100%;
@@ -564,7 +569,7 @@ nav ul li a{
     display: flex;
     justify-content: space-around;
 }
-/*#project > div>section {
+!*#project > div>section {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
 }
@@ -575,7 +580,7 @@ nav ul li a{
     text-align: center;
     padding: 10px;
     border-radius: 10px;
-}*/
+}*!
 
 #project .box{
     width: 40vh;
@@ -595,4 +600,4 @@ nav ul li a{
     background: linear-gradient(45deg,#ff77cd, #87adfe );
     color: white;
     font-size: 20px;
-}
+}*/
